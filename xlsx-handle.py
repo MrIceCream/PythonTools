@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+'''
+@author: yzk
+@support: 835627891@qq.com
+'''
 
 import xlrd
 import types
