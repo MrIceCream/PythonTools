@@ -152,7 +152,7 @@ def export_delivery():
         for month in cg_month_dict:
             write_delivery_file(cg_key, month, cg_month_dict[month])
 
-        break
+        # break
 
 '''
 处理收货单同一cg信息
@@ -221,7 +221,7 @@ def write_delivery_file(cg_key, month, cg_month_dict):
     worksheet.title = u'送货单'
 
     worksheet.cell(row=2, column=1, value=u'合同编号：' + str(cg_key))
-    cg_time = u'送货日期：2018年 {month} 月 {day} 日'.format(month=month, day=cg_month_dict['day'])
+    cg_time = u'送货日期：2018 年 {month} 月 {day} 日'.format(month=month, day=cg_month_dict['day'])
     worksheet.cell(row=2, column=5, value=cg_time)
 
     month_dict_len = len(cg_month_dict['receiving_list'])
@@ -276,7 +276,7 @@ def test():
 
 if __name__ == '__main__':
 
-    # export_invoice()
+    export_invoice()
     export_delivery()
     # test()
     pass

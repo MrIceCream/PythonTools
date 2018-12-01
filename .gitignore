@@ -3,3 +3,5 @@
 excel_py/.idea/
 excel_py/venv/
 excel_py/output/.DS_Store
+excel_py/output/delivery/
+excel_py/output/invoice/
