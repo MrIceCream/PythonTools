@@ -9,7 +9,7 @@ import sys
 import random
 import hashlib
 import time
-
+import datetime
 
 reload(sys)
 sys.setdefaultencoding( "utf-8" )
@@ -61,6 +61,11 @@ def google_translate(src):
     return '\n'.join(result)
 
 
+def getNowTime():
+    nowTime = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    print nowTime
+    return nowTime
+
 def get_file_list(_dir, postfix=''):
     _file_list = []
     files = os.listdir(_dir)
@@ -106,7 +111,9 @@ def convert(_file_list):
         if not re.findall(u"[\uac00-\ud7ff]", content.decode('utf-8')):
             continue
         
-        print _file            
+        getNowTime()
+        print _file     
+
         content = replace_kor(content, u"[\uac00-\ud7ff][\uac00-\ud7ff\u0020]*[\uac00-\ud7ff]")
         content = replace_kor(content, u"[\uac00-\ud7ff]")
 

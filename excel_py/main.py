@@ -113,9 +113,9 @@ def test():
 
 if __name__ == '__main__':
 
-    # test()
+    test()
 
-    export_invoice(PROCUREMENT_PATH)
+    # export_invoice(PROCUREMENT_PATH)
 
     # type = raw_input('1.导出发票\n2.test\n')
     #
