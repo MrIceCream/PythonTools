@@ -1,4 +1,5 @@
 
+''' 1 '''
 def twoSum(self, nums, target):
     """
     :type nums: List[int]
@@ -23,6 +24,8 @@ def twoSum_test():
     result = twoSum(None,[2, 1, 2, 3],3)
     print result
 
+''' 7 '''
+
 def reverse(self, x):
     """
     :type x: int
@@ -44,6 +47,8 @@ def reverse_test():
     result = reverse(None, 0)
     print(result)
 
+''' 9 '''
+
 def isPalindrome(self, x):
     """
     :type x: int
@@ -63,6 +68,8 @@ def isPalindrome(self, x):
 def isPalindrome_test():
     result = isPalindrome(None, 1223221)
     print(result)
+
+''' 13 '''
 
 def romanToInt(self, s):
     """
@@ -100,6 +107,8 @@ def romanToInt_test():
     result = romanToInt(None, 'MI')
     print(result)
 
+''' 14 '''
+
 def longestCommonPrefix(self, strs):
     """
     :type strs: List[str]
@@ -129,17 +138,86 @@ def longestCommonPrefix_test():
     result = longestCommonPrefix(None, [])
     print(result)
 
+''' 20 '''
+
 def isValid(self, s):
     """
     :type s: str
     :rtype: bool
     """
-    
+    _listA = ["(", "[", "{"]
+    _listB = [")", "]", "}"]
+    _dict = {")":"(", "]":"[", "}":"{"}
+    _result = []
+    for x in s:
+        if x in _listA:
+            _result.append(x)
+        elif x in _listB:
+            if len(_result) == 0 or _result[len(_result)-1] != _dict[x]:
+                return False
+            _result.pop()
+    if len(_result)>0:
+        return False
+    return True
 
 def isValid_test():
-    result = isValid(None, r"()[]{}")
+    # result = isValid(None, r"()[]{}")
     # result = isValid(None, r"([)]")
+    # result = isValid(None, r"]")
+    # result = isValid(None, r"][")
+    # result = isValid(None, r"{[]}")
+    result = isValid(None, r"[")
     print(result)
 
+''' 21 '''
+
+class ListNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+
+def mergeTwoLists(self, l1, l2):
+    """
+    :type l1: ListNode
+    :type l2: ListNode
+    :rtype: ListNode
+    """
+    resultList = []
+    while True:
+        if l1 != None:
+            resultList.append(l1.val)
+            l1 = l1.next
+        
+        if l2 != None:
+            resultList.append(l2.val)
+            l2 = l2.next
+        
+        if l1 == None and l2 == None:
+            break
+    
+    print(sorted(resultList))
+    return ListToListNode(sorted(resultList))
+
+def ListToListNode(listVar):
+    result = None
+    reverse_list = listVar[::-1]
+    for i in xrange(len(reverse_list)):
+        if i == 0:
+            result = ListNode(reverse_list[i])
+            continue
+        tempNode = ListNode(reverse_list[i])
+        tempNode.next = result
+        result = tempNode
+    return result
+
+def mergeTwoLists_test():
+    listNodeA = ListToListNode([1])
+    listNodeD = ListToListNode([3,5,6])
+
+    result = mergeTwoLists(None, listNodeA, listNodeD)
+    print result
+
+''' 26 '''
+
 if __name__ == "__main__":
-    longestCommonPrefix_test()
+    mergeTwoLists_test()

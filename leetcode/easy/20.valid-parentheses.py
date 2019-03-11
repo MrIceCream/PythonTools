@@ -65,5 +65,18 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        
+        _listA = ["(", "[", "{"]
+        _listB = [")", "]", "}"]
+        _dict = {")":"(", "]":"[", "}":"{"}
+        _result = []
+        for x in s:
+            if x in _listA:
+                _result.append(x)
+            elif x in _listB:
+                if len(_result) == 0 or _result[len(_result)-1] != _dict[x]:
+                    return False
+                _result.pop()
+        if len(_result)>0:
+            return False
+        return True
 
