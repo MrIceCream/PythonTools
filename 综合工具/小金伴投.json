@@ -1,0 +1,854 @@
+[ {
+        "明星基金": [ {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "000628",
+                            "productName": "大成高新技术产业股票A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield3y"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "成立以来每季度收益均超过业绩基准",
+                        "productName": "大成高新技术产业股票A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "精选个股"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "控制风险"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "28.43",
+                        "incomeTitle": "近三年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "001810",
+                            "productName": "中欧潜力价值灵活配置混合A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield3y"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "“双十”基金经理，价值投资老将",
+                        "productName": "中欧潜力价值灵活配置混合A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "注重价值"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "低估值"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "18.03",
+                        "incomeTitle": "近三年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "166002",
+                            "productName": "中欧新蓝筹混合A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield3y"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "“双十”基金经理，均衡配置老将",
+                        "productName": "中欧新蓝筹混合A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "均衡风格"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "精选个股"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "-14.25",
+                        "incomeTitle": "近三年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "260101",
+                            "productName": "景顺长城优选混合",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield3y"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "聚焦科技，用心做好投资",
+                        "productName": "景顺长城优选混合",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "注重成长"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "精选行业"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "-1.21",
+                        "incomeTitle": "近三年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "014404",
+                            "productName": "中欧多元价值三年持有混合A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield6m"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "价值黑马",
+                        "productName": "中欧多元价值三年持有混合A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "稳健投资"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "中生代实力派"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "行业分散"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "-13.14",
+                        "incomeTitle": "近半年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "008954",
+                            "productName": "安信价值回报三年持有混合A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yieldTotal"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "被低估基金经理",
+                        "productName": "安信价值回报三年持有混合A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "注重价值"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "精选个股"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "低换手率"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "13.88",
+                        "incomeTitle": "成立以来收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "013269",
+                            "productName": "交银瑞和三年持有期混合",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield6m"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "交银三剑客之一",
+                        "productName": "交银瑞和三年持有期混合",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "注重组合性价比"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "均衡风格"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "分散持股"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "-16.99",
+                        "incomeTitle": "近半年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "009210",
+                            "productName": "中欧嘉和三年混合A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yieldTotal"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "双十基金经理",
+                        "productName": "中欧嘉和三年混合A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "均衡风格"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "稳健女神"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "精选个股"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "0.65",
+                        "incomeTitle": "成立以来收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "014254",
+                            "productName": "信澳智远三年持有期混合A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield6m"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "调研狂魔",
+                        "productName": "信澳智远三年持有期混合A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "持股分散"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "聚焦科技"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "自下而上"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "-9.80",
+                        "incomeTitle": "近半年收益"
+                    }
+                },
+                "tplId": "11"
+            } ]
+    }, {
+        "指数基金": [ {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "000312",
+                            "productName": "华安沪深300增强A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yieldTotal"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "老牌指数增强产品",
+                        "productName": "华安沪深300增强A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "具备超额收益"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "传统行业为主"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "128.48",
+                        "incomeTitle": "成立以来收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "001556",
+                            "productName": "天弘中证500指数增强A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield3y"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "基金经理二获业内大奖",
+                        "productName": "天弘中证500指数增强A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "超额收益"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "老牌指数增强产品"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "-8.64",
+                        "incomeTitle": "近三年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "003646",
+                            "productName": "创金合信中证1000增强A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yieldTotal"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "小盘成长赛道中，冲在前列",
+                        "productName": "创金合信中证1000增强A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "高性价比"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "量化投资"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "自下而上"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "50.87",
+                        "incomeTitle": "成立以来收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "160422",
+                            "productName": "华安创业板50ETF联接A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield3y"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "重仓持有工业和医疗保健",
+                        "productName": "华安创业板50ETF联接A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "行业集中度较高"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "进攻性强"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "-24.63",
+                        "incomeTitle": "近三年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "011610",
+                            "productName": "科创板ETF联接A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield6m"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "重仓持有信息技术",
+                        "productName": "科创板ETF联接A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "百亿基金经理"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "换手率低"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "-17.88",
+                        "incomeTitle": "近半年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "012804",
+                            "productName": "广发恒生科技ETF联接(QDII)A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield1m"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "行业集中度高",
+                        "productName": "广发恒生科技ETF联接(QDII)A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "热门产品"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "重仓互联网"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "-4.18",
+                        "incomeTitle": "近一月收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "040046",
+                            "productName": "华安纳斯达克100ETF联接(QDII)A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield3y"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "近五年收益率在同类排名中占比前10%",
+                        "productName": "华安纳斯达克100ETF联接(QDII)A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "美国科技股的代表"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "性价比高"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "30.19",
+                        "incomeTitle": "近三年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "050025",
+                            "productName": "博时标普500ETF联接A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield3y"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "“美式的沪深300”",
+                        "productName": "博时标普500ETF联接A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "绝对收益能力"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "风险回报能力强"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "29.05",
+                        "incomeTitle": "近三年收益"
+                    }
+                },
+                "tplId": "11"
+            } ]
+    }, {
+        "固收+": [ {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "006824",
+                            "productName": "创金合信鑫日享短债债券A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield3y"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "短期债券型基金",
+                        "productName": "创金合信鑫日享短债债券A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "低波动"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "灵活现金管理"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "11.04",
+                        "incomeTitle": "近三年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "004672",
+                            "productName": "华夏短债债券A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield3y"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "短期纯债型基金",
+                        "productName": "华夏短债债券A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "绝对收益"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "低波动"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "9.41",
+                        "incomeTitle": "近三年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "003071",
+                            "productName": "国联睿祥纯债A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yieldTotal"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "以中高等级信用品种配置为主",
+                        "productName": "国联睿祥纯债A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "杠杆配置"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "成立5年"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "30.68",
+                        "incomeTitle": "成立以来收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "004200",
+                            "productName": "博时富瑞纯债债券A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yieldTotal"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "长期内实现超越业绩比较基准的投资回报",
+                        "productName": "博时富瑞纯债债券A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "抗跌能力强"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "收益回撤比高"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "31.60",
+                        "incomeTitle": "成立以来收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "161019",
+                            "productName": "富国新天锋债券(LOF)A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yieldTotal"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "中长期纯债型基金",
+                        "productName": "富国新天锋债券(LOF)A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "长期稳定"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "精选债券"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "88.75",
+                        "incomeTitle": "成立以来收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "160513",
+                            "productName": "博时稳健回报债券(LOF)A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield3y"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "股债特征兼具",
+                        "productName": "博时稳健回报债券(LOF)A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "攻守兼备"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "14.14",
+                        "incomeTitle": "近三年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "420102",
+                            "productName": "天弘永利债券B",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield3y"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "擅长基本面趋势行情",
+                        "productName": "天弘永利债券B",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "注重价值"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "稳健投资"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "15.89",
+                        "incomeTitle": "近三年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "005177",
+                            "productName": "华夏睿磐泰利混合A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yield3y"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "严格控制风险,追求持续稳定的收益",
+                        "productName": "华夏睿磐泰利混合A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "灵活配置管理"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "小盘成长"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "13.63",
+                        "incomeTitle": "近三年收益"
+                    }
+                },
+                "tplId": "11"
+            }, {
+                "tplData": {
+                    "jump": {
+                        "needLogin": false,
+                        "viewId": "10016",
+                        "viewProperty": {
+                            "productId": "001316",
+                            "productName": "安信稳健增值混合A",
+                            "productTplId": "701",
+                            "productType": "701",
+                            "profitKey": "yieldTotal"
+                        }
+                    },
+                    "productInfo": {
+                        "productAttr": "",
+                        "productDetail": "具有前瞻性的宏观策略分析",
+                        "productName": "安信稳健增值混合A",
+                        "productTag": [ {
+                                "color": "#F83D07",
+                                "title": "连续6年正收益"
+                            }, {
+                                "color": "#F83D07",
+                                "title": "稳定性好"
+                            } ],
+                        "rightLogo": ""
+                    },
+                    "productProfitInfo": {
+                        "expectYearProfitRate": "66.29",
+                        "incomeTitle": "成立以来收益"
+                    }
+                },
+                "tplId": "11"
+            } ]
+    } ]

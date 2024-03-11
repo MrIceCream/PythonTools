@@ -8,3 +8,4 @@ excel_py/output/invoice/
 *.xlsx
 *.meta
 .vscode
+build
